@@ -1,6 +1,11 @@
 {
+  "name": "cp-sheet-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "index.d.ts",
   "dependencies": {
     "axios-typescript": "^1.0.2",
+    "cp-sheet-package": "file:",
     "typescript": "^5.7.2"
   }
 }
